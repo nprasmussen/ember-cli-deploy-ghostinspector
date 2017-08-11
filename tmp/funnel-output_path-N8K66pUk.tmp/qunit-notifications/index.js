@@ -1,0 +1,1 @@
+/Users/linkfire/Repositories/ember-cli-deploy-ghostinspector/tmp/funnel-input_base_path-0Dh76DeQ.tmp/index.js

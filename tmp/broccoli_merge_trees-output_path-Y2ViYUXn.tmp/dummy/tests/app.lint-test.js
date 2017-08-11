@@ -1,0 +1,1 @@
+/Users/linkfire/Repositories/ember-cli-deploy-ghostinspector/tmp/broccoli_merge_trees-input_base_path-5mVMQlzd.tmp/1/dummy/tests/app.lint-test.js
